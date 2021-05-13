@@ -1,3 +1,3 @@
 # MI REPOSITORIO DE PRUEBA 
 
-- Cómputo en la nube:
+- Cómputo en la nube: 
